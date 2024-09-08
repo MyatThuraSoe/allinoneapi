@@ -1,0 +1,71 @@
+[{
+    "city": "Barcelona",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/barcelona1.jpg?alt=media&token=0229ce40-8508-45cc-8dc8-6dff19473c22", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/barcelona2.jpg?alt=media&token=d8741845-549b-4485-ab97-0de742459276"],
+    "description": "A vibrant city known for its art and architecture.",
+    "estimatedCost": 1200,
+    "bestSeasonToTravel": "Spring"
+  },
+  {
+    "city": "Berlin",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/berlin1.jpg?alt=media&token=a1fa4cbc-ecab-4f09-8caf-756cdc5e0fc8", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/berlin2.jpg?alt=media&token=953356f1-2bc5-4d52-8227-fd81df0c27ec"],
+    "description": "Germany’s capital and a cultural hub of Europe.",
+    "estimatedCost": 1000,
+    "bestSeasonToTravel": "Summer"
+  },
+  {
+    "city": "Dubai",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/dubai1.jpg?alt=media&token=48ec50eb-fa1c-49cc-afa0-ffec4f1db906", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/dubai2.jpg?alt=media&token=809577ed-91c1-400e-87e1-176f56759cc3"],
+    "description": "Known for its modern architecture and luxury shopping.",
+    "estimatedCost": 1500,
+    "bestSeasonToTravel": "Winter"
+  },
+  {
+    "city": "New York",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/newyork1.jpg?alt=media&token=6035335d-0478-4b53-a640-d01cc3f7d76e", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/newyork2.png?alt=media&token=923e38a0-0a7f-4f96-a3d8-a6223650536a", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/newyork3.jpg?alt=media&token=83e29be8-7fc9-4148-85f4-77b41fda7a46"],
+    "description": "The city that never sleeps, known for landmarks like the Statue of Liberty.",
+    "estimatedCost": 1800,
+    "bestSeasonToTravel": "Fall"
+  },
+  {
+    "city": "Paris",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/paris1.jpg?alt=media&token=c716664e-47c6-4ba2-89ab-9d2b277ecd6c", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/paris2.jpg?alt=media&token=8966d1f5-0701-45c0-b9d6-c0f4a734379a", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/paris3.jpg?alt=media&token=e93c19d7-a934-4103-a169-46bf67470922"],
+    "description": "The city of love, known for the Eiffel Tower and art museums.",
+    "estimatedCost": 1300,
+    "bestSeasonToTravel": "Spring"
+  },
+  {
+    "city": "Rio de Janeiro",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/riodejaneiro1.jpg?alt=media&token=2155dc1a-a239-43d3-a830-fd945fcb70e3", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/riodejaneiro2.jpg?alt=media&token=7ff7905c-1484-4e70-9b79-03f1dd68c54a"],
+    "description": "Famous for its beaches, Carnival festival, and Christ the Redeemer statue.",
+    "estimatedCost": 1400,
+    "bestSeasonToTravel": "Summer"
+  },
+  {
+    "city": "Rome",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/rome1.jpg?alt=media&token=0ce66e1a-e6ca-4975-8e0a-f90f2f882ffc", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/rome2.jpg?alt=media&token=e799e9fd-0c80-4165-a9a1-61a7054e60b2"],
+    "description": "The capital of Italy, known for its ancient ruins and art.",
+    "estimatedCost": 1200,
+    "bestSeasonToTravel": "Fall"
+  },
+  {
+    "city": "Seoul",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/seoul1.jpg?alt=media&token=70acce18-af69-4e7e-b149-98a690db82c1", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/seoul2.jpg?alt=media&token=9f4110c6-7f87-44ee-9c47-586abe55eb55"],
+    "description": "A modern city with a rich history and culture.",
+    "estimatedCost": 1000,
+    "bestSeasonToTravel": "Spring"
+  },
+  {
+    "city": "Sydney",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/sydney1.jpg?alt=media&token=5944db24-f679-4f7d-9b31-b8924dd352cd", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/sydney2.jpeg?alt=media&token=6d5fb635-13d7-4292-bd1f-e3f6db8f5bf5"],
+    "description": "Known for the Sydney Opera House and beautiful beaches.",
+    "estimatedCost": 1600,
+    "bestSeasonToTravel": "Summer"
+  },
+  {
+    "city": "Tokyo",
+    "imageUrls": ["https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/tokyo.jpg?alt=media&token=663f1f58-d583-4384-b1b5-320d12ee1cad", "https://firebasestorage.googleapis.com/v0/b/allinoneapi-ed31d.appspot.com/o/tokyo1.jpg?alt=media&token=b02275f8-4467-4ea3-9d33-7af493b25567"],
+    "description": "The bustling capital of Japan, known for its technology and culture.",
+    "estimatedCost": 1700,
+    "bestSeasonToTravel": "Fall"
+  }
+]
